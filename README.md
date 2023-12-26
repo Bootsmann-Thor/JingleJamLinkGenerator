@@ -2,7 +2,7 @@
 
 This is a small script to make links from the steam keys in the jingle jam rewards email
 
-### Note that it may turn non steam keys into steam links or include non jingle jam rewards as studio names
+ Note that it may turn non steam keys into steam links or include non jingle jam rewards as studio names
 
 ## Generate (Recommended)
 
